@@ -83,11 +83,11 @@ Includes:
 
 ### 📈 Training vs Validation Accuracy
 
-![Training vs Validation](Training vs Validation.png)
+![Training vs Validation](Training_vs_Validation.png)
 
 ### 🔍 Multiclass AUC-ROC
 
-![Multiclass AUC ROC](Multiclass AUC-ROC curve.png)
+![Multiclass AUC ROC](Multiclass_AUC-ROC_curve.png)
 
 ### 🧱 Model Architecture
 
