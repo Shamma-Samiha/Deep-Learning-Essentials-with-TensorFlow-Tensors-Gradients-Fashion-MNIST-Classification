@@ -83,7 +83,7 @@ Includes:
 
 ### 📈 Training vs Validation Accuracy
 
-![Training vs Validation](Training_vs_Validation.png)
+![Training vs Validation](Trainning_vs_Validation.png)
 
 ### 🔍 Multiclass AUC-ROC
 
